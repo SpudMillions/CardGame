@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 495}
   m_MaxSize: {x: 14004, y: 14045}
   vertical: 0
-  controlID: 3277
+  controlID: 1978
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 495}
   m_MaxSize: {x: 10002, y: 14045}
   vertical: 1
-  controlID: 3278
+  controlID: 1979
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 3279
+  controlID: 1980
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -256,8 +256,8 @@ MonoBehaviour:
     y: 0
     width: 555
     height: 731
-  m_MinSize: {x: 277, y: 74}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -265,7 +265,7 @@ MonoBehaviour:
   - {fileID: 22}
   - {fileID: 23}
   m_Selected: 0
-  m_LastSelected: 3
+  m_LastSelected: 2
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -293,7 +293,7 @@ MonoBehaviour:
     width: 650
     height: 388
   m_MaximizeOnPlay: 1
-  m_Gizmos: 1
+  m_Gizmos: 0
   m_Stats: 0
   m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_TargetDisplay: 0
@@ -370,9 +370,9 @@ MonoBehaviour:
     height: 388
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 70060000
-    m_LastClickedID: 0
-    m_ExpandedIDs: 8eedffff9aedffff68f8ffff6af8ffffe2fbffff00000000
+    m_SelectedIDs: d8efffff
+    m_LastClickedID: -4136
+    m_ExpandedIDs: d8efffffdaefffff00f0ffff90f0ffff5ef6ffffdefbffffe2fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -422,14 +422,14 @@ MonoBehaviour:
     width: 650
     height: 388
   m_SceneLighting: 1
-  lastFramingTime: 1409.6846837272824
+  lastFramingTime: 563.381739212539
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 11.638615, y: -0.66478544, z: 0}
+    m_Target: {x: 2.228317, y: 1.1042364, z: 0.46484375}
     speed: 2
-    m_Value: {x: 11.638615, y: -0.66478544, z: 0}
+    m_Value: {x: 2.228317, y: 1.1042364, z: 0.46484375}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -456,9 +456,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 3.8210795
+    m_Target: 18.774824
     speed: 2
-    m_Value: 3.8210795
+    m_Value: 18.774824
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -532,19 +532,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts/Visual
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 82
   m_LastFolders:
-  - Assets/Scripts/Visual
+  - Assets/Prefabs
   m_LastFoldersGridSize: 82
   m_LastProjectPath: C:\Users\Gaston Rider\Documents\Games\CardGame
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 46250000
-    m_LastClickedID: 9542
-    m_ExpandedIDs: 00000000ec24000084250000542600008c260000f82600001427000000ca9a3bffffff7f
+    m_SelectedIDs: 30270000
+    m_LastClickedID: 10032
+    m_ExpandedIDs: 00000000ec240000c225000098260000d0260000402700005c27000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -572,7 +572,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ec24000084250000542600008c260000f82600001427000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000ec240000c225000098260000d0260000402700005c27000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -599,7 +599,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: a4250000a825000098280000e838000074cf0000d8280000a8c50100dec50100462b00008e260000000000002c27000038260000b02600003a2500009c260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -785,9 +785,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1085
+    x: 983
     y: 92
-    width: 451
+    width: 553
     height: 710
 --- !u!114 &22
 MonoBehaviour:
@@ -811,9 +811,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1183
+    x: 983
     y: 92
-    width: 353
+    width: 553
     height: 710
 --- !u!114 &23
 MonoBehaviour:
