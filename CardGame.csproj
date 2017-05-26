@@ -107,6 +107,7 @@
     <Compile Include="Assets\Scripts\Visual\HoverPreview.cs" />
     <Compile Include="Assets\Scripts\Visual\ManaPoolVisual.cs" />
     <Compile Include="Assets\Scripts\Visual\OneCardManager.cs" />
+    <Compile Include="Assets\Scripts\Visual\SameDistanceChildren.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\DOTween\DOTween.XML" />
